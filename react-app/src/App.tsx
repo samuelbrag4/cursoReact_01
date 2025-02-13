@@ -1,6 +1,6 @@
 import './App.css'
 
-import Message from './Message'
+import Message from './message'
 
 function App() {
   return (
